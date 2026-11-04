@@ -1,11 +1,6 @@
 <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/image.jpg" align="center">
 <br>
-<br>
-<br>
 <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/New%20Project.jpg" align="left" height=100>
-<br>
-<br>
-<br>
 <br>
 <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/New%20Project.jpg" align="left" height=100>
 <br>
