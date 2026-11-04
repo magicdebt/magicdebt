@@ -10,15 +10,11 @@
 <br>
 <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/even%20more%20typing.com" align="left" />
 <br>
-<div align="right">
+<div align="center">
   <table>
     <tr>
       <td>
-        PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER
-        <br>
-        PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER
-        <br>
-        PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER
+        PLACEHOLDER
       </td>
     </tr>
   </table>
