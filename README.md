@@ -11,7 +11,7 @@
 <br>
 <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/New%20Project.jpg" align="left" height=100>
 <br>
-<img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/even%20more%20typing.com" align="left" height=100 />
+<p align="left"> <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/even%20more%20typing.com" align="left" height=100 /> </p>
 <div align="center">
   <table>
     <tr>
