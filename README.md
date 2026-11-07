@@ -3,7 +3,7 @@
 <br>
 <p align="left"><img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/artfufu%20eyes.png" width=250></p>
 <div align="center">
-  <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/awesom.gif" width="150" style="margin-right: 20px;" />
+  <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/awesom.gif" width="250" style="margin-right: 20px;" />
 </div>
 
 
