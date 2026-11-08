@@ -1,4 +1,4 @@
-<img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/divider.gifv" align="center" width=720 />
+<img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/divider.gifv" align="center" width=1000 />
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="middle" width="50%" align="center">
@@ -35,7 +35,7 @@
     </td>
   </tr>
 </table>
-<img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/divider.gifv" align="center" width=720 />
+<img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/divider.gifv" align="center" width=1000 />
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="middle" width="50%" align="center">
@@ -69,7 +69,7 @@
     </td>
   </tr>
 </table>
-<img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/divider.gifv" align="center" width=720 />
+<img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/divider.gifv" align="center" width=1000 />
 <!--- 
 &nbsp; 
 --->              
