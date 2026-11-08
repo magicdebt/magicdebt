@@ -38,7 +38,6 @@
 <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/divider.gifv" align="center" width=720 />
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <!-- Left Column: Boxed Card with Border -->
     <td valign="middle" width="50%" align="center">
       <table border="1" bordercolor="#30363d" cellpadding="24" style="border-collapse: collapse; background-color: #0d1117; width: 85%; border-radius: 6px;">
         <tr>
@@ -53,13 +52,13 @@
               <a href="https://github.com/pt-of-forsaken" style="color: #58a6ff; text-decoration: none; font-weight: bold;">@pt-of-forsaken</a> 
               </p>
             <p align="center" style="color: #8b949e; font-size: 13px; line-height: 1.6; margin-bottom: 0;">
-              placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder <br> placeholder placeholder placeholder placeholder <br> placeholder placeholder placeholder placeholder
+              placeholder placeholder placeholder placeholder <br> placeholder placeholder placeholder placeholder <br> placeholder placeholder placeholder placeholder <br> placeholder placeholder placeholder placeholder <br> placeholder placeholder placeholder placeholder <br> placeholder placeholder placeholder placeholder <br> placeholder placeholder placeholder placeholder
             </p>
             <p align="center" style="margin: 20px 0;">
-              <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/artful%20stamp.png" width="60" style="margin: 0 4px;">
-              <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/mafioso%20stamp.png" width="60" style="margin: 0 4px;">
-              <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/artful%20stamp%202.png" width="60" style="margin: 0 4px;">
-              <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/mafioso%20stamp%202.png" width="60" style="margin: 0 4px;">
+              <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/artful%20stamp.png" width="100" style="margin: 0 4px;">
+              <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/mafioso%20stamp.png" width="100" style="margin: 0 4px;">
+              <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/artful%20stamp%202.png" width="100" style="margin: 0 4px;">
+              <img src="https://file.garden/Z1wsLskJxRiY2oPJ/MagicDebt/mafioso%20stamp%202.png" width="100" style="margin: 0 4px;">
             </p>
           </td>
         </tr>
@@ -72,4 +71,4 @@
 </table>
 <!--- 
 &nbsp; 
----!>              
+--->              
